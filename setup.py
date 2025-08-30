@@ -15,7 +15,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Polymarket/py-clob-client",
     install_requires=[
-        "eth-account>=0.13.0",
+        "coincurve>=18.0.0",
         "eth-utils>=4.1.1",
         "poly_eip712_structs>=0.0.1",
         "py-order-utils>=0.3.2",
